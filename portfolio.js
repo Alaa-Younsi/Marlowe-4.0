@@ -768,6 +768,24 @@ $(document).ready(function(){
       });
   });
 
+  $(document).ready(function(){
+
+        $("#Marlowe").fadeOut(4000);
+      
+  });
+
+  $(document).ready(function(){
+
+    $("#Marlowee").fadeOut(1250);
+  
+});
+
+  $(document).ready(function(){
+
+    $("#Portfolio").fadeOut(1250);
+
+});
+
 
 
 
