@@ -6,6 +6,13 @@
 
 **Live Demo:** [alaa-younsi.github.io/Marlowe-4.0/](https://alaa-younsi.github.io/Marlowe-4.0/)
 
+![Homepage](screenshot1.png)
+![Services Section](screenshot2.png)
+![Blog Section](screenshot3.png)
+![Homepage](screenshot4.png)
+![Services Section](screenshot5.png)
+![Blog Section](screenshot6.png)
+
 ---
 
 ## 🎯 Evolution & Purpose
